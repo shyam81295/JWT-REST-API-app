@@ -1,4 +1,4 @@
-# api_backend_app_golang
+# JWT_REST_API_app
 <h3>Golang App which creates REST APIs which are JWT Authenticated.</h3>
 
 Currently, it supports 3 REST API endpoints:
